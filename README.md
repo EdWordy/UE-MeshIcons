@@ -26,4 +26,4 @@ A plugin for Unreal Engine 5.3 that generates icons from meshes with a few simpl
 ### Notice
 MIT License. 
 
-For version 5.3 of Unreal Engine.
+Current plugin version is 1.0 for version 5.3 of Unreal Engine.
