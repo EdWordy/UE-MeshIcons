@@ -18,7 +18,7 @@
 #### Part 3 (OPTIONAL: if you need more than a texture 2d, read on!)
 
 10. Create a new material instance from the M_MeshIconBase material by right click it and selecting the option in the context menu.
-11. Set the parameters, including rotation (-0.25 for rotated, or .25 for the opposite perpendicular angle), and source image. Name the texture appropriately if you haven't done so already.
+11. Set the parameters, including rotation (-.25 for rotated, or .25 for the opposite perpendicular angle), and source image. Name the texture appropriately if you haven't done so already.
 13. Use the material as needed!
 
 ### Notice
