@@ -11,9 +11,9 @@
 
 4. Open a blank level
 5. Place BP_MeshIconMaker in the world
-6. Under Default, set the settings to the desired settings; this includes dimension, source mesh, and name.
-7. Click "Create Icon"; The icon should appear in the plugins Assets folder beside the render target.
-8. If the image requires adjustment, adjust the spring arm as needed to centre the image.
+6. Under Default in the details pane, tune the settings; this includes dimension, source mesh, and name.
+7. Click "Create Icon"; The icon should appear in the plugin Assets folder beside the render target.
+8. If the image requires adjustment, adjust the spring arm length and transform as needed to centre the image or otherwise manipulate it.
 
 #### Part 3 (OPTIONAL: if you need more than a texture 2d, read on!)
 
